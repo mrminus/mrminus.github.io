@@ -20,6 +20,11 @@
   </url>
   
   <url>
+    <loc>http://www.raincity.click/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.raincity.click/tags/</loc>
     <priority>0</priority>
   </url>
