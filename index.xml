@@ -13,13 +13,13 @@
     
     <item>
       <title>My First Post</title>
-      <link>http://www.raincity.click/posts/content/posts/my-first-post/</link>
-      <pubDate>Tue, 21 May 2019 19:34:08 -0700</pubDate>
+      <link>http://www.raincity.click/posts/my-first-post/</link>
+      <pubDate>Wed, 22 May 2019 19:44:38 -0700</pubDate>
       <author>Jason Harper</author>
-      <guid>http://www.raincity.click/posts/content/posts/my-first-post/</guid>
+      <guid>http://www.raincity.click/posts/my-first-post/</guid>
       <description></description>
       
-      <content>&lt;p&gt;Today I&amp;rsquo;m trying out the static blog software, &lt;a href=&#34;http://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;, and using github to publish it. My eventual goal is to push this all to &lt;a href=&#34;https://aws.amazon.com/s3&#34; target=&#34;_blank&#34;&gt;AWS S3&lt;/a&gt; and remove the github step. I&amp;rsquo;ll have to play around with how that might work.&lt;/p&gt;
+      <content>&lt;p&gt;this is not the last first post i&amp;rsquo;ll make today&lt;/p&gt;
 </content>
       
     </item>
