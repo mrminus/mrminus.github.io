@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A practitioner&#39;s journal</title>
-    <link>http://www.raincity.click/</link>
+    <link>https://www.raincity.click/</link>
     <description>Recent content on A practitioner&#39;s journal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Jason Harper 2019</copyright>
     <lastBuildDate>Wed, 22 May 2019 19:44:38 -0700</lastBuildDate>
     
-	<atom:link href="http://www.raincity.click/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.raincity.click/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://www.raincity.click/posts/my-first-post/</link>
+      <link>https://www.raincity.click/posts/my-first-post/</link>
       <pubDate>Wed, 22 May 2019 19:44:38 -0700</pubDate>
       
-      <guid>http://www.raincity.click/posts/my-first-post/</guid>
+      <guid>https://www.raincity.click/posts/my-first-post/</guid>
       <description>this is not the last first post i&amp;rsquo;ll make today. See, I told you!</description>
     </item>
     
