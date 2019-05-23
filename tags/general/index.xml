@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on A practitioner&#39;s journal</title>
-    <link>http://raincity.click/posts/</link>
-    <description>Recent content in Posts on A practitioner&#39;s journal</description>
+    <title>general on A practitioner&#39;s journal</title>
+    <link>http://raincity.click/tags/general/</link>
+    <description>Recent content in general on A practitioner&#39;s journal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Jason Harper 2019</copyright>
     <lastBuildDate>Wed, 22 May 2019 21:23:20 -0700</lastBuildDate>
     
-	<atom:link href="http://raincity.click/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://raincity.click/tags/general/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
