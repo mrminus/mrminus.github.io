@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://raincity.click/posts/ubuntu-again/</loc>
+    <lastmod>2019-06-01T21:19:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://raincity.click/posts/attirubte-based-access-control/</loc>
+    <lastmod>2019-05-24T10:43:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://raincity.click/posts/my-first-post/</loc>
+    <lastmod>2019-05-22T21:23:20-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://raincity.click/</loc>
+    <lastmod>2019-06-01T21:19:37-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://raincity.click/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://raincity.click/tags/general/</loc>
+    <lastmod>2019-05-22T21:23:20-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://raincity.click/posts/</loc>
+    <lastmod>2019-06-01T21:19:37-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://raincity.click/tags/</loc>
+    <lastmod>2019-05-22T21:23:20-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://raincity.click/categories/writing/</loc>
+    <lastmod>2019-05-22T21:23:20-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
