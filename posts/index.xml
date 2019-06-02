@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Jason Harper 2019</copyright>
-    <lastBuildDate>Sat, 01 Jun 2019 22:38:51 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2019 22:41:17 -0700</lastBuildDate>
     
 	<atom:link href="http://raincity.click/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New Test 3</title>
+      <link>http://raincity.click/posts/new-test-3/</link>
+      <pubDate>Sat, 01 Jun 2019 22:41:17 -0700</pubDate>
+      
+      <guid>http://raincity.click/posts/new-test-3/</guid>
+      <description>ok. maybe.final</description>
+    </item>
     
     <item>
       <title>New Test</title>

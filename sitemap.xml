@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://raincity.click/posts/new-test-3/</loc>
+    <lastmod>2019-06-01T22:41:17-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://raincity.click/posts/new-test/</loc>
     <lastmod>2019-06-01T22:38:51-07:00</lastmod>
   </url>
@@ -14,7 +19,7 @@
   
   <url>
     <loc>http://raincity.click/</loc>
-    <lastmod>2019-06-01T22:38:51-07:00</lastmod>
+    <lastmod>2019-06-01T22:41:17-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -25,7 +30,7 @@
   
   <url>
     <loc>http://raincity.click/posts/</loc>
-    <lastmod>2019-06-01T22:38:51-07:00</lastmod>
+    <lastmod>2019-06-01T22:41:17-07:00</lastmod>
     <priority>0</priority>
   </url>
   
