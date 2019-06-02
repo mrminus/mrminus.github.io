@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://raincity.click/posts/up-and-down/</loc>
+    <lastmod>2019-06-01T22:20:30-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://raincity.click/</loc>
+    <lastmod>2019-06-01T22:20:30-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://raincity.click/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://raincity.click/posts/</loc>
+    <lastmod>2019-06-01T22:20:30-07:00</lastmod>
     <priority>0</priority>
   </url>
   
