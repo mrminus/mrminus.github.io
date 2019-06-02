@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Jason Harper 2019</copyright>
-    <lastBuildDate>Sat, 01 Jun 2019 22:54:50 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2019 23:00:41 -0700</lastBuildDate>
     
 	<atom:link href="http://raincity.click/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using Hugo and Git</title>
+      <link>http://raincity.click/posts/using-hugo-and-git/</link>
+      <pubDate>Sat, 01 Jun 2019 23:00:41 -0700</pubDate>
+      
+      <guid>http://raincity.click/posts/using-hugo-and-git/</guid>
+      <description>I&amp;rsquo;ve spent an hour trying to figure out why Hugo can post new posts but does not delete when i remove the &amp;lsquo;.md&amp;rsquo; file. Apparently when you use the &amp;lsquo;hugo&amp;rsquo; command to construct the site (which pushes it to a directory that I can git push from) it will not do a &amp;lsquo;clean&amp;rsquo; and remove files.</description>
+    </item>
     
     <item>
       <title>Sun Shiny Security</title>
