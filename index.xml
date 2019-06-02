@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A practitioner&#39;s journal</title>
+    <link>http://raincity.click/</link>
+    <description>Recent content on A practitioner&#39;s journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jason Harper 2019</copyright>
+    <lastBuildDate>Sat, 01 Jun 2019 22:54:50 -0700</lastBuildDate>
+    
+	<atom:link href="http://raincity.click/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sun Shiny Security</title>
+      <link>http://raincity.click/posts/sun-shiny-security/</link>
+      <pubDate>Sat, 01 Jun 2019 22:54:50 -0700</pubDate>
+      
+      <guid>http://raincity.click/posts/sun-shiny-security/</guid>
+      <description>a new post</description>
+    </item>
+    
+  </channel>
+</rss>
